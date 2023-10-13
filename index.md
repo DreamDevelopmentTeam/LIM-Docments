@@ -6,6 +6,8 @@ LIM 是基于UDP广播的局域网通信协议，多用于信息课机房等情�
 
 [LIM 客户端实现](https://github.com/DreamDevelopmentTeam/LIM-Client)
 
+[LIM 客户端实现（C# GUI版）](https://github.com/DreamDevelopmentTeam/LIM-Client-CSharp)
+
 [LIM 协议规范](https://github.com/DreamDevelopmentTeam/LIM-Protocol)
 
 ---
